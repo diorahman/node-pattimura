@@ -1,4 +1,4 @@
-## Node.js binding for Pattimura chipher by [Abraham Ferdinand](https://bitbucket.org/abeinoe/pattimura).
+## Node.js binding for Pattimura cipher by [Abraham Ferdinand](https://bitbucket.org/abeinoe/pattimura).
 
 ## install
 
